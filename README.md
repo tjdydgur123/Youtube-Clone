@@ -1,4 +1,4 @@
-# Yotube Site
+# Youtube Site
 
 Used React, JSX, PostCSS, JavaScript, Youtube APIs and Heroku. </br>
 
